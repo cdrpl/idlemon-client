@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f44753ed460a5a14681d5e14559e2269
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scrollContent: {instanceID: 0}
+  - chatInput: {instanceID: 0}
+  - receiveScrollItem: {fileID: 1171531865563964, guid: db8248258e46c4f47b4ce57aca8ec85e,
+      type: 3}
+  - sendScrollItem: {fileID: 1171531865563964, guid: b6d228b8f5dd65c46b8188b4f62c6e85,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

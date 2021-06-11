@@ -1,0 +1,44 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+obj/
+UnityGenerated/
+Library/
+Screenshots/
+Logs/
+UserSettings/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.csprog
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.gradle
+*.vscode/launch.json
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ============ #
+# Google Play Resolved #
+# ============ #
+Assets/Plugins/Android/
